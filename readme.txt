@@ -14,7 +14,7 @@ Pure CSS3 & Lightweight Responsive Tooltip for wordpress.
 
 Pure CSS3 Tooltips For WordPress is a lightweight, easy to use tooltips plugin for WordPress. It’s based on pure CSS3 and comes with some different style, different tooltip positions, optional tooltip headers, support for images.
 
-== How to use ==
+
 
 Plugin Feature
 
@@ -34,19 +34,20 @@ Plugin Feature
 
 1. Install as regular WordPress plugin.
 2. Go your Pluings setting via WordPress Dashboard and activate it.
-3. After Activate Visit your Single Post.
-4. and after activate you will see menu on dashboard "Tool Tip" will get stats.
+3. After activate plugin you will see "Tool Tip" menu at left side on WordPress dashboard and find "Tooltip Option settings"<br />
 
 
+<strong>How to use?</strong><br />
 
-
-
+Where you want to use tooltip :
+* <span class="top tipso_style" data-tipso="This is a top Tooltip!">Top.</span>
+* <span class="bottom tipso_style" data-tipso="This is a bottom Tooltip!">BOTTOM</span>
+* <span class="left tipso_style" data-tipso="This is a left Tooltip!">LEFT</span>
+* <span class="right tipso_style" data-tipso="This is a right Tooltip!">RIGHT</span>
 
 == Screenshots ==
 
 1. screenshot-1
-2. screenshot-2
-3. screenshot-3
 
 == Changelog ==
 
