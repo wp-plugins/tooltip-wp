@@ -16,7 +16,7 @@ Pure CSS3 Tooltips For WordPress is a lightweight, easy to use tooltips plugin f
 
 
 
-Plugin Feature
+<strong>Plugin Features </strong>
 
 * 5 Beautiful Style.
 * Pure CSS3.
