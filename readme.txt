@@ -40,10 +40,10 @@ Pure CSS3 Tooltips For WordPress is a lightweight, easy to use tooltips plugin f
 <strong>How to use?</strong><br />
 
 Where you want to use tooltip :
-* <span class="top tipso_style" data-tipso="This is a top Tooltip!">Top.</span>
-* <span class="bottom tipso_style" data-tipso="This is a bottom Tooltip!">BOTTOM</span>
-* <span class="left tipso_style" data-tipso="This is a left Tooltip!">LEFT</span>
-* <span class="right tipso_style" data-tipso="This is a right Tooltip!">RIGHT</span>
+* [<span class="top tipso_style" data-tipso="This is a top Tooltip!">Top.</span>]
+* [<span class="bottom tipso_style" data-tipso="This is a bottom Tooltip!">BOTTOM</span>]
+* [<span class="left tipso_style" data-tipso="This is a left Tooltip!">LEFT</span>]
+* [<span class="right tipso_style" data-tipso="This is a right Tooltip!">RIGHT</span>]
 
 == Screenshots ==
 
