@@ -1,7 +1,7 @@
 === ToolTip Wp ===
 Contributors: themepoints
 Donate link: http://themepoints.com
-Tags: css3, css3 tooltip, css3 tooltips, header, label, link convert, links conversion, mobile,responsive, tooltip, nice tooltip, animated tooltip, tooltips.
+Tags: css3, css3 tooltip, css3 tooltips, header, label, link convert, links conversion, mobile,responsive, tooltip, nice tooltip, animated tooltip, tooltips
 Requires at least: 4.1
 Tested up to: 3.9
 Stable tag: 1.0
@@ -39,7 +39,7 @@ Pure CSS3 Tooltips For WordPress is a lightweight, easy to use tooltips plugin f
 
 <strong>How to use?</strong><br />
 
-* [<span class="top tipso_style" data-tipso="This is a top Tooltip!">Top</span>]
+* [<span class="top tipso_style" data-tipso="This is a top Tooltip!">]Top[</span>]
 * [<span class="bottom tipso_style" data-tipso="This is a bottom Tooltip!">BOTTOM</span>]
 * [<span class="left tipso_style" data-tipso="This is a left Tooltip!">LEFT</span>]
 * [<span class="right tipso_style" data-tipso="This is a right Tooltip!">RIGHT</span>]
