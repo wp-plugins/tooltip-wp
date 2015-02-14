@@ -15,7 +15,7 @@ Pure CSS3 & Lightweight Responsive Tooltip for wordpress.
 Pure CSS3 Tooltips For WordPress is a lightweight, easy to use tooltips plugin for WordPress. It’s based on pure CSS3 and comes with some different style, different tooltip positions, optional tooltip headers, support for images.
 
 
-### Accordion-wp by http://themepoints.com
+### Tooltip Wp by http://themepoints.com
 
 * [How to use? !&raquo;](http://themepoints.com)
 
