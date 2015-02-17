@@ -84,7 +84,7 @@
 				</tr>                   
                 
                 
-         <tr valign="top">
+        <tr valign="top">
             <th scope="row"><label for="themepoints_tooltip_display">Display ToolTip</label></th>
             <td style="vertical-align:middle;">
             <select name="themepoints_tooltip_display">
@@ -93,6 +93,24 @@
             </select><br>
         <span style="font-size:12px;color:#22aa5d">Use Dropdown Menu to select tooltip enable/disable.</span>
             </td>
+		</tr>
+        <tr valign="top">
+            <th scope="row"><label for="themepoints_tooltip_usage">How to use ?</label></th>
+			<td style="vertical-align:middle;">
+<textarea rows="10" cols="70">
+Where you want to display tooltip just flow this instruction.
+============================================================
+<span class=”top tipso_style” data-tipso=”This is a top Tooltip!”>Top</span>
+
+<span class=”bottom tipso_style” data-tipso=”This is a bottom Tooltip!”>BOTTOM</span>
+
+<span class=”left tipso_style” data-tipso=”This is a left Tooltip!”>LEFT</span>
+
+<span class=”right tipso_style” data-tipso=”This is a right Tooltip!”>RIGHT</span>
+</textarea> 				
+				<br />
+				<span style="font-size:12px;color:#22aa5d">Flow this instruction to display tooltip.</span>
+			</td>
 		</tr> 
 
                 
