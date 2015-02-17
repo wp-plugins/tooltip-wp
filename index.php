@@ -4,7 +4,7 @@
 Plugin Name: Tooltip Wp
 Plugin URI: http://themepoints.com
 Description: This plugin will enable a awesome, nice, smooth tooltip for your website.install and enjoy this plugins feature.
-Version: 1.0
+Version: 1.1
 Author: themepoints
 Author URI: http://themepoints.com
 License URI: http://themepoints.com/copyright/
