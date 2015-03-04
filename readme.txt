@@ -2,8 +2,8 @@
 Contributors: themepoints
 Donate link: http://themepoints.com
 Tags: css3,css3 tooltip,css3 tooltips,responsive,tooltip,nice tooltip,animated tooltip,tooltips
-Requires at least: 4.1
-Tested up to: 3.9
+Requires at least: 3.8
+Tested up to: 4.1.1
 Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -72,8 +72,11 @@ Pure CSS3 Tooltips For WordPress is a lightweight, easy to use tooltips plugin f
 
 == Changelog ==
 
-= 1.1
+= 1.0 =
+* Support latest version of wordpress
+
+= 1.0 =
 * Fix issue in the settings page
 
-= 1.0
+= 1.0 =
 * Initial release
